@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋 I'm Danny
 
 <!--
 **dannyhann/dannyhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 비즈니스 성장을 위한 서비스 구현과 문제해결을 즐기는 개발자 한대현입니다. 
 
 필요한 누군가를 위해 개발하는 것을 좋아하고,  
 문제가 발생하였을 때 집요하게 분석하고 해결하는 것을 좋아합니다. (학습하는 과정이 즐겁습니다)   
